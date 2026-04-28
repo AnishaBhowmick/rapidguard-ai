@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RapidGuard AI Emergency System
 
 A full-stack React + Express MVP for emergency response analysis.
@@ -107,3 +108,7 @@ The frontend will open on Vite at `http://localhost:5173` or `http://localhost:5
 - The backend must be deployed first.
 - The frontend must use `VITE_BACKEND_URL` for the live backend URL.
 - If the Gemini key is missing, the backend returns a demo response so the app still works.
+=======
+# rapidguard-ai
+AI-powered emergency response system using Google Gemini for real-time crisis analysis and smart evacuation guidance.
+>>>>>>> ec394bc938de397fba8ec3c30157936008cdd70a
