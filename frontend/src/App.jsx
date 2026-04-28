@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-const BACKEND_URL = `${import.meta.env.VITE_BACKEND_URL || 'http://localhost:5000'}/analyze`;
+const BACKEND_URL = "https://rapidguard-ai.onrender.com/analyze";
 const ROOM = 'Room 412';
 const FLOOR = 'Floor 4';
 
